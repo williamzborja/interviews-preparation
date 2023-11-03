@@ -15,6 +15,7 @@ Ej.
 
 - floats: that is the way to store `3.87` numbers in this way you need identify your needed precision `3.8978973293`
 - strings
+    - literal
 - arrays
 
 ### Compounds
@@ -32,8 +33,12 @@ Ej.
 
 ## Memory
 
+**Null**
+
 Stack: 
-Heap
+
+Heap:
+
 
 ## Control flow
 
@@ -49,10 +54,8 @@ for
 loop
 while
 
+## control errors
 
-## functional patterns 
-
-
-## POO 
-
-## Concurrency
+- panic or error
+- Exceptions
+- propagation

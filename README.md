@@ -5,7 +5,7 @@ This repository is my guide used to prepare me to general interviews and Softwar
 ## Programming
 All programming languages have a **common** word and concepts this is `programming`. When we're using any language like C++, Rust, Golang etc we're applying the common part(programming) + concepts and specific(language) in this section we'll to learn the common part
 
-[programming](./programming.md)
+[programming](markdown/programming.md)
 
 
 ## Overview Languages
@@ -19,7 +19,16 @@ Exist a lot of languages and categories.
 - Statically or Dynamic Typed
 - Secure or language without focus in security.
 
-[Guide languages](./lang.md)
+[Guide languages](markdown/lang.md)
+
+## Languages
+We will to put in practice all previews Computer Science concept with this languages
+
+
+### [Rust]()
+### [Java]()
+
+each lang folder is organized in the structure
 
 ## Datastructures
 
@@ -28,20 +37,6 @@ Exist a lot of languages and categories.
 ## Testing
 
 ## Concurrency
-
-## Languages
-We will to put in practice all previews Computer Science concept with this languages
-
-each lang folder is organized in the structure
-- lang
-- collections
-- datastructures
-- algorithms
-- concurrency
-
-### [Rust]()
-### [Java]()
-
 
 
 ## System Design
